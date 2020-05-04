@@ -8,7 +8,7 @@ I analyzed relationships between SAT scores and other factors for high schools i
 
 There are English language learners in Manhattan more than other districts. 
 
-Manhattan district more secure than others.
+Manhattan district is more secure than others.
 
 The schools, which have white or Asian students are more successful than other school, which have Hispanic or black students more.
 
