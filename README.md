@@ -12,4 +12,4 @@ Manhattan district is more secure than others.
 
 The schools, which have more white or Asian students, are more successful than other schools, which have more Hispanic or black students.
 
-The school with higher percentage of female are a little more successful in SAT exams.
+The schools with higher female percentages are a little more successful in SAT exams.
